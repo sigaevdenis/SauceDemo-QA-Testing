@@ -35,6 +35,6 @@
 ---
 
 ### Ссылки
-- [Test Plan](Test%20Plan.md)
+- [Test Plan](Testplan.md)
 - [Test Cases](Test%20Cases/)
 - [Bug Reports](Bug%20Reports/)
