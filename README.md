@@ -51,4 +51,4 @@
 - 📋 [Test Plan](Testplan.md)
 - ✅ [Test Cases (45)](https://github.com/sigaevdenis/SauceDemo-QA-Testing/blob/main/Test%20Cases/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B_SwagLabs.md)
 - 🐞 [Bug Reports (10)](https://github.com/sigaevdenis/SauceDemo-QA-Testing/blob/main/Bug%20Reports/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.md)
-- ☑️ [Чек-листы](https://github.com/sigaevdenis/SauceDemo-QA-Testing/blob/main/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82_SwagLabs.md)
+- ☑️ [Чек-листы](https://github.com/sigaevdenis/SauceDemo-QA-Testing/tree/main/Checklists)
