@@ -37,4 +37,4 @@
 ### Ссылки
 - [Test Plan](Testplan.md)
 - [Test Cases](https://github.com/sigaevdenis/SauceDemo-QA-Testing/blob/main/Test%20Cases/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B_SwagLabs.md)
-- [Bug Reports](Bug%20Reports/)
+- [Bug Reports](https://github.com/sigaevdenis/SauceDemo-QA-Testing/blob/main/Bug%20Reports/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B.md)
